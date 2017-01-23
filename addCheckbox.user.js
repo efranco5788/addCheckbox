@@ -83,7 +83,7 @@
 		}
 	}
 
-	function insertCheckbox(link, node) {
+	function insertEditlink(link, node) {
 		//node.insertAdjacentHTML('afterbegin', '<a href="' + link +'"' + 'style="float: left; margin-right: 10px; font-size: 110%;">Edit</a>');
     node.append('<input type="checkbox" name="myCheckbox" />' + $(".txt").val());
 	}

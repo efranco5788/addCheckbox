@@ -1,6 +1,7 @@
 // ==UserScript==
 
 // ==/UserScript==
+
 (function() {
     'use strict';
 
